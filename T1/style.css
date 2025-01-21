@@ -1,0 +1,27 @@
+* {
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+    transition: all 0.1s;
+    color: #ffffff;
+}
+
+body {
+    background: content-box radial-gradient(rgb(0, 153, 255), rgb(153, 135, 235));
+
+}
+
+img {
+    height: 200px;
+    border-radius: 20px;
+    margin: 10px 50px;
+
+}
+
+a {
+    color: blue;
+
+}
+
+h1 {
+    text-align: center;
+}
